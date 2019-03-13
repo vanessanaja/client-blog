@@ -1,0 +1,23 @@
+body    {
+    background: url(images/smoke-69124_1280.jpg) no-repeat center;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+h1  {
+    color: #b21212;
+    /* color: #870100; */
+    font-family: 'Inconsolata', monospace;
+    font-size: 5em;
+    text-align: center;
+}
+main h1     {
+    font-size: 3em;
+}
+p   {
+    color: white;
+    margin: 25px;
+}
+img {
+    margin: 70px auto;
+}
+
