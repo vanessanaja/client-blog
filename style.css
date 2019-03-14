@@ -3,21 +3,33 @@ body    {
     background-size: cover;
     font-family: 'Montserrat', sans-serif;
 }
+main    {
+    margin: 100px;
+}
 h1  {
-    color: #b21212;
+    color: #8b0000;
     /* color: #870100; */
     font-family: 'Inconsolata', monospace;
-    font-size: 5em;
+    font-size: 6em;
     text-align: center;
+    text-shadow: 3px 3px 12px black; 
 }
 main h1     {
     font-size: 3em;
+    margin: auto 300px;
 }
 p   {
-    color: white;
+    color: #fff;
     margin: 25px;
 }
 img {
-    margin: 70px auto;
+    display: block;
+    margin: 50px auto;
+    /* border: 4px solid #8b0000; */
+    /* opacity: .3; */
+}
+p + img {
+    display: block;
+    opacity: 1;
 }
 
