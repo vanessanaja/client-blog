@@ -43,8 +43,6 @@ p   {
 img {
     display: block;
     margin: 50px auto;
-    /* border: 4px solid #8b0000; */
-    /* opacity: .6; */
     opacity: .8;
 }
 div {
