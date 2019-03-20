@@ -17,6 +17,7 @@ header  {
 h1  {
     color: #000000;
     font-family: 'Inconsolata', monospace;
+    font-style: italic;
     font-size: 6em;
     text-align: center;
     text-shadow: 1px 1px 4px #fff;
@@ -35,7 +36,7 @@ p   {
     font-size: 1.2em;
     line-height: 1.5em;
     margin: 25px;
-    text-shadow: 1px 1px 3px black;
+    text-shadow: 1px 1px 3px #000
 }
 img {
     display: block;
